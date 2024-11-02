@@ -1,5 +1,6 @@
 👋 Welcome to VeroLink – the premier global platform empowering universities and industry leaders to connect, collaborate, and innovate inclusively. VeroLink bridges academic institutions, industry leaders, and visionary minds to create a professional network built for impactful, cross-border partnerships.
 
+✅ Empowering Fair and Accessible Applicant Assessments: VeroLink is a platform dedicated to creating fair, accessible, and secure assessment solutions for educational and professional institutions. Designed with inclusivity, transparency, and ethical data handling at its core, VeroLink ensures that all applicants—regardless of background, culture, or ability—are evaluated on equal footing. Our commitment to user accessibility (WCAG 2.1 compliance), data privacy, and unbiased assessments sets a new standard for equitable opportunity in admissions and hiring.
 
 🌏 Our Vision: Reimagining how universities, students, and professionals connect to foster meaningful, knowledge-driven networks. With a focus on Communication, Media, Technology, and Travel, Tourism & Hospitality (TTH), we’re building partnerships that transcend borders and drive real change.
 
